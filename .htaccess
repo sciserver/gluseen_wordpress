@@ -1,3 +1,8 @@
+AuthType Basic
+AuthName "Under Development"
+AuthUserfile /data1/dswww-ln01/gluseen.org/test/.htpasswd
+Require valid-user
+
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
