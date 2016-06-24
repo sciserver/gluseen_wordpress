@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/gluseen"]
+	path = wp-content/themes/gluseen
+	url = git@github.com:sciserver/Gluseen-Theme.git
